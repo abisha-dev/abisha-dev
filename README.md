@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm ABISHA R</h1>
+<h1 align="center">Hey, I'm ABISHA R</h1>
 <h3 align="center">IoT Developer & Front-End Learner from Tamil Nadu</h3>
 
 ---
 
-### 🌱 About Me
-- 🎓 Engineering student passionate about **IoT systems** and smart hardware
-- 💻 Currently exploring **React.js** & modern front-end development
-- ⚙️ Love building real-time monitoring systems and dashboards
-- ✨ Interested in combining IoT, web apps & AI
+### About Me
+-  Engineering student passionate about **IoT systems** and smart hardware
+-  Currently exploring **React.js** & modern front-end development
+-  Love building real-time monitoring systems and dashboards
+-  Interested in combining IoT, web apps & AI
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C-023430?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔧 Highlight IoT Projects
+###  Highlight IoT Projects
 - **Smart Water Tank Monitoring System** – real-time water level tracking and alerts
 - **Smart Dual-Sensor Temperature Monitoring System** – temperature logging from two sensors
 - **Ultrasonic Distance Measurement System** – distance measurement with live data
@@ -32,14 +32,14 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abisha-dev&show_icons=true&theme=tokyonight" alt="Abisha's GitHub stats" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abisha-r-76755634a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
